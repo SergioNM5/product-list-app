@@ -1,0 +1,274 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Premium Widget",
+      "description": "A high-quality premium widget for your everyday needs.",
+      "price": 100.5,
+      "currency": "usd",
+      "image": "image1",
+      "rating": 4.2
+    },
+    {
+      "id": 2,
+      "title": "Deluxe Gadget",
+      "description": "The deluxe gadget that enhances your productivity and style.",
+      "price": 80.75,
+      "currency": "usd",
+      "image": "image2",
+      "rating": 3.8
+    },
+    {
+      "id": 3,
+      "title": "Essential Tool",
+      "description": "The essential tool you need to tackle any task efficiently.",
+      "price": 50.0,
+      "currency": "usd",
+      "image": "image3",
+      "rating": 4.5
+    },
+    {
+      "id": 4,
+      "title": "Premium Pro",
+      "description": "The professional-grade product designed for power users.",
+      "price": 120.99,
+      "currency": "usd",
+      "image": "image4",
+      "rating": 4.0
+    },
+    {
+      "id": 5,
+      "title": "Compact Widget",
+      "description": "A compact widget that fits perfectly in any space.",
+      "price": 35.99,
+      "currency": "usd",
+      "image": "image5",
+      "rating": 4.9
+    },
+    {
+      "id": 6,
+      "title": "Ultimate Gear",
+      "description": "The ultimate gear to unlock your true potential.",
+      "price": 70.25,
+      "currency": "usd",
+      "image": "image6",
+      "rating": 3.5
+    },
+    {
+      "id": 7,
+      "title": "Superior Gadget",
+      "description": "A superior gadget that outperforms all others in its class.",
+      "price": 90.0,
+      "currency": "usd",
+      "image": "image7",
+      "rating": 4.7
+    },
+    {
+      "id": 8,
+      "title": "Innovative Widget",
+      "description": "An innovative widget that sets new standards in its industry.",
+      "price": 55.99,
+      "currency": "usd",
+      "image": "image8",
+      "rating": 4.2
+    },
+    {
+      "id": 9,
+      "title": "Premium Plus",
+      "description": "The premium plus version that offers even more features.",
+      "price": 150.0,
+      "currency": "usd",
+      "image": "image9",
+      "rating": 4.8
+    },
+    {
+      "id": 10,
+      "title": "Economy Gadget",
+      "description": "An economy gadget that provides excellent value for money.",
+      "price": 25.5,
+      "currency": "usd",
+      "image": "image10",
+      "rating": 3.0
+    },
+    {
+      "id": 11,
+      "title": "Advanced Gizmo",
+      "description": "The advanced gizmo with cutting-edge technology and style.",
+      "price": 89.99,
+      "currency": "usd",
+      "image": "image11",
+      "rating": 4.3
+    },
+    {
+      "id": 12,
+      "title": "Professional Tool",
+      "description": "A professional-grade tool built for precision and accuracy.",
+      "price": 180.49,
+      "currency": "usd",
+      "image": "image12",
+      "rating": 4.6
+    },
+    {
+      "id": 13,
+      "title": "Deluxe Gear",
+      "description": "The deluxe gear that makes your everyday life luxurious.",
+      "price": 210.0,
+      "currency": "usd",
+      "image": "image13",
+      "rating": 4.9
+    },
+    {
+      "id": 14,
+      "title": "Compact Pro",
+      "description": "The compact pro version for those who demand excellence.",
+      "price": 79.99,
+      "currency": "usd",
+      "image": "image14",
+      "rating": 4.4
+    },
+    {
+      "id": 15,
+      "title": "Smart Gizmo",
+      "description": "The smart gizmo that adapts to your lifestyle seamlessly.",
+      "price": 150.25,
+      "currency": "usd",
+      "image": "image15",
+      "rating": 4.2
+    },
+    {
+      "id": 16,
+      "title": "Innovative Tool",
+      "description": "An innovative tool that revolutionizes how you work.",
+      "price": 100.99,
+      "currency": "usd",
+      "image": "image16",
+      "rating": 4.7
+    },
+    {
+      "id": 17,
+      "title": "Elegant Gadget",
+      "description": "An elegant gadget that adds a touch of class to your life.",
+      "price": 49.99,
+      "currency": "usd",
+      "image": "image17",
+      "rating": 3.9
+    },
+    {
+      "id": 18,
+      "title": "Deluxe Pro",
+      "description": "The deluxe pro version that meets the needs of professionals.",
+      "price": 220.0,
+      "currency": "usd",
+      "image": "image18",
+      "rating": 4.8
+    },
+    {
+      "id": 19,
+      "title": "Advanced Widget",
+      "description": "An advanced widget with powerful features for experts.",
+      "price": 85.5,
+      "currency": "usd",
+      "image": "image19",
+      "rating": 4.0
+    },
+    {
+      "id": 20,
+      "title": "Compact Gizmo",
+      "description": "A compact gizmo that fits snugly into your everyday life.",
+      "price": 45.75,
+      "currency": "usd",
+      "image": "image20",
+      "rating": 3.6
+    },
+    {
+      "id": 21,
+      "title": "Classic Widget",
+      "description": "The classic widget that has stood the test of time.",
+      "price": 79.99,
+      "currency": "usd",
+      "image": "image21",
+      "rating": 4.3
+    },
+    {
+      "id": 22,
+      "title": "High-End Gear",
+      "description": "The high-end gear crafted for perfectionists and enthusiasts.",
+      "price": 320.49,
+      "currency": "usd",
+      "image": "image22",
+      "rating": 4.9
+    },
+    {
+      "id": 23,
+      "title": "Modern Pro",
+      "description": "The modern pro version that blends style and functionality.",
+      "price": 199.99,
+      "currency": "usd",
+      "image": "image23",
+      "rating": 4.5
+    },
+    {
+      "id": 24,
+      "title": "Budget Gadget",
+      "description": "A budget-friendly gadget without compromising on quality.",
+      "price": 29.99,
+      "currency": "usd",
+      "image": "image24",
+      "rating": 3.7
+    },
+    {
+      "id": 25,
+      "title": "Deluxe Plus",
+      "description": "The deluxe plus version that offers premium enhancements.",
+      "price": 250.0,
+      "currency": "usd",
+      "image": "image25",
+      "rating": 4.6
+    },
+    {
+      "id": 26,
+      "title": "Precision Tool",
+      "description": "A precision tool designed for accuracy and reliability.",
+      "price": 149.75,
+      "currency": "usd",
+      "image": "image26",
+      "rating": 4.1
+    },
+    {
+      "id": 27,
+      "title": "Gourmet Gizmo",
+      "description": "The gourmet gizmo that enhances your culinary adventures.",
+      "price": 180.0,
+      "currency": "usd",
+      "image": "image27",
+      "rating": 4.8
+    },
+    {
+      "id": 28,
+      "title": "Premium Classic",
+      "description": "The premium classic version with timeless elegance.",
+      "price": 89.99,
+      "currency": "usd",
+      "image": "image28",
+      "rating": 4.2
+    },
+    {
+      "id": 29,
+      "title": "Advanced Gear",
+      "description": "An advanced gear for those who demand the best.",
+      "price": 299.0,
+      "currency": "usd",
+      "image": "image29",
+      "rating": 4.9
+    },
+    {
+      "id": 30,
+      "title": "Essential Gizmo",
+      "description": "The essential gizmo you need for everyday convenience., The essential gizmo you need for everyday convenience. The essential gizmo you need for everyday convenience. The essential gizmo you need for everyday convenience. The essential gizmo you need for everyday convenience.",
+      "price": 49.5,
+      "currency": "usd",
+      "image": "image30",
+      "rating": 4.0
+    }
+  ]
+}
