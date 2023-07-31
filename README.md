@@ -2,7 +2,23 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+First, download all dependencies
+```bash
+npm i
+# or
+yarn
+```
+Create .env.local file and add the following variable
+```bash
+NEXT_PUBLIC_API_URL=http://localhost:8000
+```
+
+To initialize the database run the following comand in the root of your project
+```bash
+npx json-server --watch json/data.json --port 8000
+```
+
+run the development server:
 
 ```bash
 npm run dev
